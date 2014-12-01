@@ -8,6 +8,7 @@ até chegarmos no final do vetor (ou sua posição devida).
 
 
 O algoritmo Bolha é de ordem quadrática. O(N²)
+Ele é estável
 */
 //recebemos como parametro a quantidade de elementos e 
 //o ponteiro do vetor que iremos ordenar
